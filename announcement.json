@@ -1,6 +1,8 @@
 {
-  "active": false,
-  "title": "",
-  "message": "",
-  "type": "info"
+  "active": true,
+  "title": "Update",
+  "message": "Update soon!",
+  "type": "info",
+  "set_at": "2026-03-16T23:27:54.308132+00:00",
+  "set_by": "xnm9"
 }
