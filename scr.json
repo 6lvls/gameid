@@ -4,6 +4,10 @@
     {
       "name": "Infinite Yield",
       "code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()"
+    },
+    {
+      "name": "Fun",
+      "code": "print('hi')"
     }
   ]
 }
