@@ -9,6 +9,12 @@
         "name": "TBO - Da hood",
         "code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/cool5013/TBO/main/TBOscript'))()"
       }
+    ],
+    "79546208627805": [
+      {
+        "name": "Nazuro - 99",
+        "code": "loadstring(game:HttpGet(\"https://nazuro.xyz/99nights\"))()"
+      }
     ]
   },
   "universalScripts": [
