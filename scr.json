@@ -16,12 +16,7 @@
         "code": "loadstring(game:HttpGet(\"https://nazuro.xyz/99nights\"))()"
       }
     ],
-    "123974602339071": [
-      {
-        "name": "Copy",
-        "code": "setclipboard(tostring(game.PlaceId))"
-      }
-    ]
+    "123974602339071": []
   },
   "universalScripts": [
     {
