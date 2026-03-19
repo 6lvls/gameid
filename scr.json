@@ -12,7 +12,13 @@
         "code": "loadstring(game:HttpGet(\"https://nazuro.xyz/99nights\"))()"
       }
     ],
-    "123974602339071": []
+    "123974602339071": [],
+    "126509999114328": [
+      {
+        "name": "nazuro",
+        "code": "loadstring(game:HttpGet(\\\"https://nazuro.xyz/99nights\\\"))()"
+      }
+    ]
   },
   "universalScripts": [
     {
